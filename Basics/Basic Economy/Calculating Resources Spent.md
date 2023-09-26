@@ -14,7 +14,7 @@
 
 - The Resources used/sec when building something = The Resource Cost / Build Time Cost * Build Power
 - If a building costs 150 metal and 2800 build time, and the constructor building it has 80 build power, it'll take ~4.2m/sec until completed
-- 150 / 2800 * 80 = ~4.285 metal/sec
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 150 (M cost) / 2800 (Build Time Cost) * 80 (Build Power) = ~4.285 metal/sec
 
 <br></br>
 # Assisting a Construction
