@@ -1,7 +1,7 @@
 
 # Basic Economy Fundementals
 
-## Everything Costs Metal(M), Energy(E), and Build Time(BT)
+## Everything Costs Metal(M) / Energy(E) / Build Time(BT)
 
 #### Metal *(White cost)*
 - Must be built on Metal Nodes
