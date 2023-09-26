@@ -41,6 +41,7 @@
 - To assist a constructor/factory itself, select the constructor and issue a guard order on the unit / building being constructed
 	- This can also be done with a simple RMB click
 	- The assistant will assist the construction/factory until told not to, including following around another constructor
+ 	- If orders are queued up after a guard order, the order will automatically switch to assisting the current project and will continue with the queued orders afterwards
 
 - Construction Turrets
 	- Construction turrets cannot build anything themselves, but will automatically do these things within it's build radius:
@@ -50,7 +51,7 @@
 	 - Construction turrets are one of the more efficient ways to add build power to their vicinity
 
 <br><br></br></br>
-### Starting Out
+### Starter Builds
 
 #### The Two Mex Build
 
