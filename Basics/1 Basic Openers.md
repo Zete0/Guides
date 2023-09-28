@@ -2,33 +2,6 @@
 # Basic Openers
 <sub></sup>(Author: Zeteo)</sup></sub>
 
-
-## Basic No Wind Starts
-**4 Metal Node Example**
-1) 3 Mex
-2) Solar
-3) Mex
-4) Solar
-5) Lab
-6) Solar
-7) Assist Lab
-   
-**3 Metal Node Example**
-1) 3 Mex
-2) 2 Solar
-3) Lab
-4) Solar
-5) Assist Lab
-
-**2 Metal Node Example**
-1) 2 Mex
-2) Solar
-3) Mex
-4) Solar
-5) Lab
-6) Solar
-7) Assist Lab
-
 ### Fundementals
 
 **Fundementally, we want to account for several things in our opener**
@@ -36,55 +9,61 @@
 
 1) Take all nearby metal as soon as possible
      - No matter if you start with 2 mexes or 4, it's important to build up as much metal first, so that you have more in the long run
-3) Make enough energy to never stall
+2) Make enough energy to never stall
      - In order to build these faster metal extractors, sometimes energy is needed
      - The important thing is to not stall on energy when building
      - If you do stall, consider options to fix the stalling asap
-5) Build a lab to increase build power
+3) Build a lab to increase build power
      - The commander can't build everything themselves, it's important to add on constructors to increase building speed and to adding on more resources
-7) Anticipate the need for more energy
+4) Anticipate the need for more energy
      - As a lab finishes, often times we need more energy to utilize the lab properly
      - In most cases, the commander could be adding on more energy production while the lab gets started with constructors or scouts
-9) Grab more Metal asap
+5) Grab more Metal asap
      - As constructors come out of the lab, it's important to grab other metal nodes nearby to increase the amount of metal you have coming in
 
+### Map Variations
+- Some maps are moon maps and have no wind, or the wind is too low to utilize properly
+- When this is the case, we need to rely on solar for energy production
+- NOTE: Solars cost a ton of metal and no energy at all.
+
+## Basic No Wind Starts
+| | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
+| --- | --- | --- | --- |
+| 1 | 3 Mex | 3 Mex | 2 Mex |
+| 2 | Solar | 2 Solar | 2 Solar |
+| 3 | Mex | Lab | Lab |
+| 4 | Solar | Solar | Solar |
+| 5 | Lab | Assist Lab | Assist Lab |
+| 6 | Solar |  |  |
+| 7 | Assist Lab |  |  |
 
 ## Adding Low Wind into the Equasion
-**4 Metal Node Example**
-1) 2 Mex
-2) Wind
-3) Mex
-4) Wind
-5) Mex
-6) 2 Wind
-7) Lab
-8) 2 Wind
-9) Assist Lab
-   
-**3 Metal Node Example**
-1) 2 Mex
-2) Wind
-3) Mex
-4) 2 Wind
-5) Lab
-6) 2 Wind
-7) Assist Lab
+| | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
+| --- | --- | --- | --- |
+| 1 | 4 Mex | 3 Mex | 2 Mex |
+| 2 | Solar | Solar | Solar |
+| 3 | 2 Wind | 2 Wind | 2 Wind |
+| 4 | Lab | Lab | Lab |
+| 5 | 2 Wind | 2 Wind | 2 Wind |
+| 6 | Assist Lab | Assist Lab | Assist Lab |
 
-**2 Metal Node Example**
-1) 2 Mex
-2) 3 Wind
-3) Lab
-4) 2 Wind
-5) Assist Lab
+## Adding High Wind into the Equasion
+| | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
+| --- | ---  | ---    | --- |
+| 1 | 2 Mex  | 2 Mex  | 2 Mex     |
+| 2 | Wind   | Wind   | 3 Wind    |
+| 3 | Mex    | Mex    | Lab       |
+| 4 | Wind   | 2 Wind | 2 Wind    |
+| 5 | Mex    | Lab    | Assist Lab |
+| 6 | 2 Wind | 2 Wind |  |
+| 7 | Lab    | Assist Lab |  |
+| 8 | 2 Wind |  |  |
+| 9 | Assist Lab |  |  |
 
-
-
-
-
-
-
-
-
+### After the lab is finished
+- We want our commander to assist the lab whenever possible to pump out more build power
+- As soon as energy drops low, add on more energy production
+- After a few games, you may notice 
 
 
 
