@@ -25,4 +25,4 @@
 
 <br></br>
 ## Balance is First Key to Victory
-####[Click Here to Learn more(https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
+#### [Click Here to Learn more](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
