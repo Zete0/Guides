@@ -20,7 +20,8 @@
 - Constructors can assist constructing buildings from other constructors or assist factories producing units
 - The Actual time it takes to build something depends on how much [build power][bp] is applied to it, the more build power applied, the faster the construction, but the more resources that are used/second
 
-### Build Power
+<br></br>
+## Build Power
 - The Build power is essentially the amount of work a constructor adds to a project
 - Build power is considered a third resource
 - Each construction unit has a build power
@@ -28,10 +29,30 @@
 - Different constructors/factories have different amount of build power
 - The time it takes to build something = Build Time Cost / Build Power applied
 
+#### Assisting a Construction
+
+**All Construction type units can assist other constructors with building or factories producing units**
+
+- To assist a construction, select a constructor (or the commander) and issue a repair order on the unit / building being constructed
+	- This can easily be done with a simple RMB click
+	- The assistant will idle after finishing the construction
+
+- To assist a constructor/factory itself, select the constructor and issue a guard order on the unit / building being constructed
+	- This can also be done with a simple RMB click
+	- The assistant will assist the construction/factory until told not to, including following around another constructor
+ 	- If orders are queued up after a guard order, the order will automatically switch to assisting the current project and will continue with the queued orders afterwards
+
+#### Construction Turrets
+
+- Construction turrets cannot build anything themselves, but will automatically do these things within it's build radius:
+  - Assist nearby constructing buildings/units
+	- Repair nearby friendly units
+	- Reclaim nearby neutral objects
+- Construction turrets are one of the more efficient ways to add build power to their vicinity
 
 #### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Technical/Calculating%20Resources%20Spent.md))
 
-<br></br>
+<br></br><br></br>
 ## Balancing Economy is First Milestone to Victory
 
 ### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
@@ -63,7 +84,7 @@
     > - In this example, we're spending our metal well, and we have enough energy for our needs
     > - Also note, our +/- Metal and +/- Energy are not drastically out of proportion
 
-##### ***Also Note:** Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* 
+##### ***Note:** Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* 
 
 ### Resource Gain and Construction Priority
 
