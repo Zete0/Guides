@@ -2,31 +2,35 @@
 # Basic Openers
 <sub></sup>(Author: Zeteo)</sup></sub>
 
-### Fundementals
+## Fundementals
 
-**Fundementally, we want to account for several things in our opener**
-**By understanding these principles, we should be able to effectively open on any map in any position**
+#### Fundementally, we want to account for several things in our opener
+#### By understanding these principles, we should be able to effectively open on any map in any position
 
-1) Take all nearby metal as soon as possible
+### Fundementals:
+- **Take all nearby metal as soon as possible**
      - No matter if you start with 2 mexes or 4, it's important to build up as much metal first, so that you have more in the long run
-2) Make enough energy to never stall
+- **Make enough energy to never stall**
      - In order to build these faster metal extractors, sometimes energy is needed
      - The important thing is to not stall on energy when building
      - If you do stall, consider options to fix the stalling asap
-3) Build a lab to increase build power
+- **Build a lab to increase build power**
      - The commander can't build everything themselves, it's important to add on constructors to increase building speed and to adding on more resources
-4) Anticipate the need for more energy
+- **Anticipate the need for more energy**
      - As a lab finishes, often times we need more energy to utilize the lab properly
      - In most cases, the commander could be adding on more energy production while the lab gets started with constructors or scouts
-5) Grab more Metal asap
+- **Grab more Metal asap**
      - As constructors come out of the lab, it's important to grab other metal nodes nearby to increase the amount of metal you have coming in
 
+<br></br>
 ### Map Variations
+
+#### Basic No Wind Starts
 - Some maps are moon maps and have no wind, or the wind is too low to utilize properly
 - When this is the case, we need to rely on solar for energy production
-- NOTE: Solars cost a ton of metal and no energy at all.
+- NOTE: Solars cost a ton of metal and no energy at all, so it is possible to grab 3 mexes before a solar
 
-## Basic No Wind Starts
+
 | | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
 | --- | --- | --- | --- |
 | 1 | 3 Mex | 3 Mex | 2 Mex |
@@ -37,17 +41,30 @@
 | 6 | Solar |  |  |
 | 7 | Assist Lab |  |  |
 
-## Adding Low Wind into the Equasion
+
+
+#### Adding Low Wind into the Equasion
+
+- On maps with lower wind, wind is still a good option, but purely building only wind early on will take a while to build
+- When wind is lower, it is advised to open with at least one solar to help you get started
+- Here, since we're still opening with a solar, we can still start with 3 mexes
+- NOTE: This opening can vary a lot depending on the actual current wind speed. See below for advice on variations
+
 | | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
 | --- | --- | --- | --- |
-| 1 | 4 Mex | 3 Mex | 2 Mex |
+| 1 | 3 Mex | 3 Mex | 2 Mex |
 | 2 | Solar | Solar | Solar |
-| 3 | 2 Wind | 2 Wind | 2 Wind |
-| 4 | Lab | Lab | Lab |
-| 5 | 2 Wind | 2 Wind | 2 Wind |
-| 6 | Assist Lab | Assist Lab | Assist Lab |
+| 3 | Mex | 2 Wind | 2 Wind |
+| 4 | 2 Wind | Lab | Lab |
+| 5 | Lab | 2 Wind | 2 Wind |
+| 6 | 2 Wind | Assist Lab | Assist Lab |
+| 7 | Assist Lab |  |  |
 
-## Adding High Wind into the Equasion
+#### Adding High Wind into the Equasion
+
+- Some maps have very strong wind and we do not need any solar at all
+- Here, since we're opening wind, we should add a wind between a 2nd and 3rd mex in order to not stall on Energy when making the wind turbine
+
 | | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
 | --- | ---  | ---    | --- |
 | 1 | 2 Mex  | 2 Mex  | 2 Mex     |
@@ -60,7 +77,9 @@
 | 8 | 2 Wind |  |  |
 | 9 | Assist Lab |  |  |
 
-### After the lab is finished
+### Variations Based on Actual Wind Speed
+
+## After the lab is finished
 - We want our commander to assist the lab whenever possible to pump out more build power
 - As soon as energy drops low, add on more energy production
 - After a few games, you may notice 
