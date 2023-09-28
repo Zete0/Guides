@@ -1,4 +1,4 @@
-[BP]: https://github.com/Zete0/Guides/edit/main/Starter/Basic%20Economy.md#id-build-power
+[BP]: https://github.com/Zete0/Guides/blob/main/Starter/Basic%20Economy.md#id-build-power
 
 # Economy Fundementals
 
