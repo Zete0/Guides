@@ -1,6 +1,6 @@
 [BP]: https://github.com/Zete0/Guides/blob/main/Starter/Basic%20Economy.md#build-power
 
-# Economy Fundementals
+# Economy Fundementals 
 <sub></sup>(Author: Zeteo)</sup></sub>
 
 ## Everything Costs Metal(M) / Energy(E) / Build Time(BT)
