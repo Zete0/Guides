@@ -18,6 +18,7 @@
 
 <br></br>
 # Assisting a Construction
+#### All Construction type units can assist other constructors with building or factories producing units
 
 - To assist a construction, select a constructor (or the commander) and issue a repair order on the unit / building being constructed
 	- This can easily be done with a simple RMB click
