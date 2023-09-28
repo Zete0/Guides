@@ -45,7 +45,7 @@
 #### Construction Turrets
 
 - Construction turrets cannot build anything themselves, but will automatically do these things within it's build radius:
-  - Assist nearby constructing buildings/units
+  	- Assist nearby constructing buildings/units
 	- Repair nearby friendly units
 	- Reclaim nearby neutral objects
 - Construction turrets are one of the more efficient ways to add build power to their vicinity
