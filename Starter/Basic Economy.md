@@ -15,18 +15,17 @@
 - There are many different ways to get energy - some ways are more efficient on different maps
 - E isn't as easily stored, so gaining/losing E is faster *(the E bar goes up/down quickly)*
 #### Build Time *(green cost)*
-- The higher the build time, the longer it takes to be made
-- The Actual time it takes to build something depends on how much [build power][bp] is applied to it
-- Constructors can assist constructing buildings from other constructors or factories producing units
-- Different constructors/factories have different amount of build power
-- The time it takes to build something = Build Time Cost / Build Power applied
-- Build power is considered a third resource
-
+- The higher the build time, the longer the building/unit takes to be made
+- Constructors can assist constructing buildings from other constructors or assist factories producing units
+- The Actual time it takes to build something depends on how much [build power][bp] is applied to it, the more build power applied, the faster the construction, but the more resources that are used/second
 
 ### Build Power
-- Each construction unit has a build power
 - The Build power is essentially the amount of work a constructor adds to a project
-- 
+- Build power is considered a third resource
+- Each construction unit has a build power
+- Adding more workers to a project speeds up the pace the project gets done
+- Different constructors/factories have different amount of build power
+- The time it takes to build something = Build Time Cost / Build Power applied
 
 
 #### For a deeper dive on how long it takes to build something or resources spent/sec, check out [this guide](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
