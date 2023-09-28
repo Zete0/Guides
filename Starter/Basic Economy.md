@@ -34,15 +34,34 @@
 <br></br>
 ## Balancing Economy is First Milestone to Victory
 
-#### When an economy is unbalanced, construction slows down to the pace of the weakest link
-
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example:
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
+#### When an economy is unbalanced, construction slows down to the pace of the weakest link
 
-- 
+> Low Energy Example:
+> - (Insert picture here)
+> - In this example, our Energy production doesn't meet demand. The amount of energy available is split between all the different constructors/factories.
+> - *It is especially important to have enough energy, energy is used for more than just construction! It is also used for extracting metal, some weapons, stockpiling missiles and dgun.*
+
+> Low Metal Example:
+> - (Insert picture here)
+> - In this example, our Metal production doesn't meet demand. The amount of metal available is split between all the different constructors/factories.
+
+> Low Build Power Example:
+> - (Insert picture here)
+> - In this example, our Resources are high, which means we're not effeciently using them
+> - To use them more efficiently, we need more constructors working on projects or assisting existing projects
+
+### Resource Gain and Construction Priority
+
+- In BAR, resources are first gained, then spent
+- Each constructor/factory has a high or low priority setting
+- Units set to high priority use the resources first, then if there are resources still available, then low priority units use what they can
+- The -Amount shown next to each resource reflects the "requested resources" of all high priority constructor/factory and does not include low priority usage
+- (show example image and high/low priority button here)
+- Default settings for different constructor/factory can be adjusted in the settings
+- (show settings image here)
+
 
 ### [Click Here for more Details](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
 
