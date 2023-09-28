@@ -106,7 +106,7 @@
 
 
 
-### [Click here for a Guide to Basic Openers](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
+### [Click here for a Guide to Basic Openers](https://github.com/Zete0/Guides/blob/main/Basics/1%20Basic%20Openers.md)
 
 
 
