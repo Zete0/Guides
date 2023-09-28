@@ -23,13 +23,26 @@
 - The Build power is essentially the amount of work a constructor adds to a project
 - Build power is considered a third resource
 - Each construction unit has a build power
-- Adding more workers to a project speeds up the pace the project gets done
+- Adding more workers to a project speeds up the pace the project gets done by applying more resources/second
 - Different constructors/factories have different amount of build power
 - The time it takes to build something = Build Time Cost / Build Power applied
 
 
-#### For a deeper dive on how long it takes to build something or resources spent/sec, check out [this guide](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
+#### [Click here for a deeper dive on how long it takes to build something or resources spent/sec, check out](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
 
 <br></br>
-## Balance is First Key to Victory
-#### [Click Here to Learn more](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
+## Balancing Economy is First Milestone to Victory
+
+#### When an economy is unbalanced, construction slows down to the pace of the weakest link
+
+#### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
+
+
+- 
+
+### [Click Here for more Details](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
+
+
+
+
+
