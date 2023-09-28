@@ -1,6 +1,7 @@
 [BP]: https://github.com/Zete0/Guides/blob/main/Starter/Basic%20Economy.md#id-build-power
 
 # Economy Fundementals
+<sub></sup>(Author: Zeteo)</sup></sub>
 
 ## Everything Costs Metal(M) / Energy(E) / Build Time(BT)
 
@@ -34,6 +35,9 @@
 ## Balancing Economy is First Milestone to Victory
 
 #### When an economy is unbalanced, construction slows down to the pace of the weakest link
+
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example:
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
