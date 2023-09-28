@@ -24,32 +24,5 @@
 #### For a deeper dive on how long it takes to build something or resources spent/sec, check out [this guide](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
 
 <br></br>
-## Balance is Key to victory
-
-<br><br></br></br>
-### Starter Builds
-
-#### The Two Mex Build
-
-#### The Three Mex Build
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Balance is First Key to Victory
+####[Click Here to Learn more(https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
