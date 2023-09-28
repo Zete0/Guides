@@ -22,9 +22,8 @@
 - The time it takes to build something = Build Time Cost / Build Power applied
 - Build power is considered a third resource
 
-Visit [BP][] for more information.
 
-### [id]: Build Power
+### Build Power
 - Each construction unit has a build power
 - The Build power is essentially the amount of work a constructor adds to a project
 - 
