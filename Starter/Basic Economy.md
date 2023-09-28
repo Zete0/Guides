@@ -29,7 +29,7 @@
 - The time it takes to build something = Build Time Cost / Build Power applied
 
 
-#### [Click here for a deeper dive on how long it takes to build something or resources spent/sec, check out](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
+#### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Basics/Basic%20Economy/Calculating%20Resources%20Spent.md)
 
 <br></br>
 ## Balancing Economy is First Milestone to Victory
