@@ -34,23 +34,36 @@
 <br></br>
 ## Balancing Economy is First Milestone to Victory
 
-#### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
+### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
-#### When an economy is unbalanced, construction slows down to the pace of the weakest link
+**When an economy is unbalanced, construction slows down to the pace of the weakest link**
 
-> Low Energy Example:
-> - (Insert picture here)
-> - In this example, our Energy production doesn't meet demand. The amount of energy available is split between all the different constructors/factories.
-> - *It is especially important to have enough energy, energy is used for more than just construction! It is also used for extracting metal, some weapons, stockpiling missiles and dgun.*
+- When any resource is low, __all__ production is slowed and limited by the low resource
+- Balancing your economy well means fixing any and all resource issues as soon as possible to effectively gain/spend them, which ultimately allows you to build up more efficiently
+- In BAR, resource income is highly dependant on the map and what you able to control, so there is always a bit of management with resources. There is no fixed "get this many of this at this time", because it fluxuates
 
-> Low Metal Example:
-> - (Insert picture here)
-> - In this example, our Metal production doesn't meet demand. The amount of metal available is split between all the different constructors/factories.
+- Here are some examples:
 
-> Low Build Power Example:
-> - (Insert picture here)
-> - In this example, our Resources are high, which means we're not effeciently using them
-> - To use them more efficiently, we need more constructors working on projects or assisting existing projects
+    > Low Energy Example:
+    > - (Insert picture here)
+    > - In this example, our Energy production doesn't meet demand. The amount of energy available is split between all the different constructors/factories.
+    > - *It is especially important to have enough energy, energy is used for more than just construction! It is also used for extracting metal, some weapons, stockpiling missiles and dgun.*
+
+    > Low Metal Example:
+    > - (Insert picture here)
+    > - In this example, our Metal production doesn't meet demand. The amount of metal available is split between all the different constructors/factories.
+
+  	> Low Build Power Example:
+    > - (Insert picture here)
+    > - In this example, Metal is starting to increase, which means we could utilize more constructors to assist
+    > - To use them more efficiently, we need more constructors working on projects or assisting existing projects
+
+    > Balanced Economy Example:
+    > - (Insert picture here)
+    > - In this example, we're spending our metal well, and we have enough energy for our needs
+    > - Also note, our +/- Metal and +/- Energy are not drastically out of proportion
+
+##### ***Also Note:** Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* 
 
 ### Resource Gain and Construction Priority
 
@@ -59,11 +72,20 @@
 - Units set to high priority use the resources first, then if there are resources still available, then low priority units use what they can
 - The -Amount shown next to each resource reflects the "requested resources" of all high priority constructor/factory and does not include low priority usage
 - (show example image and high/low priority button here)
+    > High Build Power Example:
+    > - (Insert picture here)
+    > - In this example, we have an excess of build power for our resources
+    > - This basically means we over spent on build power and some of it is not being utilized
+    > - This isn't as easily diagnosed since low priority doesn't show up as a -amount/sec
+    > - This is a better issue to have than too little build power
 - Default settings for different constructor/factory can be adjusted in the settings
 - (show settings image here)
 
 
-### [Click Here for more Details](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
+
+
+
+### [Click here for a Guide to Basic Openers](https://github.com/Zete0/Guides/blob/main/Basics/1%20Economy.md)
 
 
 
