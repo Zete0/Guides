@@ -9,12 +9,12 @@
 - Must be built on Metal Nodes
 - Not all metal nodes are created equally
 - Different maps have a different amount of nodes
-- Is hardest to obtain because it requires defending a larger territory
-- M can be stored easily, so gaining/losing M is slower *(the M bar goes up/down slowly)*
+- Metal is hardest to obtain because it requires defending a larger territory
+- Metal can be stored easily, so gaining/losing M is slower *(the M bar goes up/down slowly)*
 #### Energy *(yellow cost)*
 - Most energy structures can be built anywhere
 - There are many different ways to get energy - some ways are more efficient on different maps
-- E isn't as easily stored, so gaining/losing E is faster *(the E bar goes up/down quickly)*
+- Energy isn't as easily stored, so gaining/losing E is faster *(the E bar goes up/down quickly)*
 #### Build Time *(green cost)*
 - The higher the build time, the longer the building/unit takes to be made
 - Constructors can assist constructing buildings from other constructors or assist factories producing units
