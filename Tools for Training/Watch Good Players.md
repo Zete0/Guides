@@ -26,8 +26,8 @@ Here's a list of youtube channels provided by Mentors
 
 | Channel | Description |
 | --- | --- |
-| [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator |
-| [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk fast economy |
+| [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
+| [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
 | [Zeteo](https://www.youtube.com/@Zeteo-) | Relatively newer player, but has a lot of analysis content full of detail |
 | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
 
