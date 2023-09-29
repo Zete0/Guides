@@ -26,7 +26,7 @@
 
 Here's a list of youtube channels provided by Mentors
 
-| Twitch| Youtube | Description |
+| Twitch | Youtube | Description |
 | --- | --- | --- |
 |  | [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
 |  | [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
@@ -34,8 +34,8 @@ Here's a list of youtube channels provided by Mentors
 |  | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
 
 ## Other Channels
-| Channel | Description |
-| --- | --- |
-| [BARCastTV](https://www.youtube.com/@BARCastTV) | Good 1v1 player, channel has a lot of interviews with top tier players and tournaments |
-| [Raghna](https://www.youtube.com/@raghna) | Raghna is one of the best BAR players, and has some old, but still useful content |
+| Twitch | Youtube | Description |
+| --- | --- | --- |
+|  | [BARCastTV](https://www.youtube.com/@BARCastTV) | Good 1v1 player, channel has a lot of interviews with top tier players and tournaments |
+|  | [Raghna](https://www.youtube.com/@raghna) | Raghna is one of the best BAR players, and has some old, but still useful content |
 
