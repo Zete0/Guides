@@ -9,7 +9,9 @@
 
 ### Opening Principles:
 - **Take all nearby metal as soon as possible**
-     - No matter if you start with 2 mexes or 4, it's important to build up as much metal first, so that you have more in the long run
+     - Metal is often the limiting factor, so it's important to grab the nodes asap, unless you're trying to cheese
+     - Sometimes the commander needs to walk to grab more metal. In that case, you can choose to walk or go with fewer starting mexes and get your lab faster
+     - It is especially important to grab more metal early if you are planning to open with a vehicle lab, as vehicles cost more metal than bots. If you do not, you may find yourself short on metal as you produce your first few units
 - **Make enough energy to never stall**
      - In order to build these faster metal extractors, sometimes energy is needed
      - The important thing is to not stall on energy when building
