@@ -28,7 +28,7 @@
 *These are mostly togglable, so if you want to put costs back on, you can (existing units produced with /nocost will remain as a cost of 1/1/1)*
 *When using godmode, you may not see the the UI of the enemy units*
 
-** If you wish to control both armada / cortex on one player, you can do so by selecting a commander and using the *Capture* ability to add that unit to that player **
+**If you wish to control both armada / cortex on one player, you can do so by selecting a commander and using the *Capture* ability to add that unit to that player**
 
 
 
