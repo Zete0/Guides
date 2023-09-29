@@ -65,7 +65,8 @@
 #### Adding High Wind into the Equasion
 
 - Some maps have very strong wind and we do not need any solar at all
-- Here, since we're opening wind, we should add a wind between a 2nd and 3rd mex in order to not stall on Energy when making the wind turbine
+- Here, since we're opening wind, we should add a wind between a 2nd and 3rd mex. If we do not, we will stall on energy when building the wind turbine.
+  *(exceptions exist if the commander needs to walk to grab metal nodes)*
 
 | | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
 | --- | ---  | ---    | --- |
@@ -81,10 +82,14 @@
 
 ### Variations Based on Actual Wind Speed
 
+- On many maps, wind can vary greatly. Sometimes it is quite good, and other times quite bad.
+- For that reason, these "builds" are not set in stone. Feel free to change your plans, BAR is all about adaptation
+
 ## After the lab is finished
-- We want our commander to assist the lab whenever possible to pump out more build power
-- As soon as energy drops low, add on more energy production
-- After a few games, you may notice 
+- We want our commander to assist the lab whenever possible to pump out more build power to help get your base started
+- As soon as energy drops lower, add on more energy production to prevent stalling
+- 
+- As you get used to these mechanics, it is wise to try to anticipate what you'll need and when - but this takes time, be patient. Rome wasn't built in a day.
 
 
 
