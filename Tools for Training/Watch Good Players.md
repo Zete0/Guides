@@ -5,13 +5,15 @@
 
 #### In order to improve, it is important to watch how other players do things
 
-**To do this, jump into a lobby and spectate**
+**To do this, jump into a lobby and click spectate**
 | Lobby Color | Description |
 | --- | --- |
 | Green | Open lobbies that haven't started yet |
 | Yellow | Open lobbies that have started |
 | Blue | Recent lobbies void of players |
 | Red | Locked Lobbies |
+
+*Spectating Yellow lobbies usually requires your client to 'catchup' to the live, on-going game and can take time depending on how long it's been going for*
 
 ### Learn from the Best
 
@@ -24,12 +26,12 @@
 
 Here's a list of youtube channels provided by Mentors
 
-| Channel | Description |
-| --- | --- |
-| [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
-| [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
-| [Zeteo](https://www.youtube.com/@Zeteo-) | Relatively newer player, but has a lot of analysis content full of detail |
-| [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
+| Twitch| Youtube | Description |
+| --- | --- | --- |
+|  | [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
+|  | [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
+|  | [Zeteo](https://www.youtube.com/@Zeteo-) | Relatively newer player, but has a lot of analysis content full of detail |
+|  | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
 
 ## Other Channels
 | Channel | Description |
