@@ -7,7 +7,7 @@
 #### Fundementally, we want to account for several things in our opener
 #### By understanding these principles, we should be able to effectively open on any map in any position
 
-### Fundementals:
+### Opening Principles:
 - **Take all nearby metal as soon as possible**
      - No matter if you start with 2 mexes or 4, it's important to build up as much metal first, so that you have more in the long run
 - **Make enough energy to never stall**
