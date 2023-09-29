@@ -22,14 +22,14 @@
 
 <br></br>
 ## Build Power
-- The Build power is essentially the amount of work a constructor adds to a project
+- The Build power is essentially the amount of work a constructor/factory/rez bot adds to a project
 - Build power is considered a third resource
 - Each construction unit has a build power
 - Adding more workers to a project speeds up the pace the project gets done by applying more resources/second
 - Different constructors/factories have different amount of build power
 - The time it takes to build something = Build Time Cost / Build Power applied
 
-#### Assisting a Construction
+### Assisting a Construction
 
 **All Construction type units can assist other constructors with building or factories producing units**
 
@@ -42,7 +42,7 @@
 	- The assistant will assist the construction/factory until told not to, including following around another constructor
  	- If orders are queued up after a guard order, the order will automatically switch to assisting the current project and will continue with the queued orders afterwards
 
-#### Construction Turrets
+### Construction Turrets
 
 - Construction turrets cannot build anything themselves, but will automatically do these things within it's build radius:
   	- Assist nearby constructing buildings/units
