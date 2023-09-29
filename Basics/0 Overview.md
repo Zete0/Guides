@@ -1,4 +1,5 @@
 # Overview
+<sub></sup>(Author: Zeteo)</sup></sub>
 ## How to Play
 ### The goal of Beyond All Reason (BAR) is to destroy all enemy commanders
 
