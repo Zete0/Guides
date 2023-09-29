@@ -1,16 +1,18 @@
 
 ## Main Guides
 
-[Starter](https://github.com/Zete0/Guides/blob/main/Starter/Overview.md)
+[Starter](https://github.com/Zete0/Guides/blob/main/Starter/Overview.md) - These guides are geared towards being an absolute beginner
 
-[Basic](https://github.com/Zete0/Guides/blob/main/Basics/0%20Overview.md)
+[Basic](https://github.com/Zete0/Guides/blob/main/Basics/0%20Overview.md) - These guides go over fundementals, the building blocks of BAR
 
-[Intermediate](https://github.com/Zete0/Guides/blob/main/Intermediate/Overview.md)
+[Intermediate](https://github.com/Zete0/Guides/blob/main/Intermediate/Overview.md) - These guides are for a higher level of learning
 
-[Advanced](https://github.com/Zete0/Guides/blob/main/Advanced/Overview.md)
+[Advanced](https://github.com/Zete0/Guides/blob/main/Advanced/Overview.md) - Thse guides are for learning the highest level of play
 
-## Other Resources
+## Other Guides
 
-[Training Tools](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Overview.md)
+[Training Tools](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Overview.md) - Here you'll find tools for improving skills such as increasing your speed or having better awareness
 
-[Technical Guides](https://github.com/Zete0/Guides/blob/main/Technical/Overview.md)
+[Technical Guides](https://github.com/Zete0/Guides/blob/main/Technical/Overview.md) - These guides break down specific mechanics and provide formulas for how a specific mechanic works
+
+## Other forms of Learning
