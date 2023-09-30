@@ -12,6 +12,7 @@
 | Yellow | Open lobbies that have started |
 | Blue | Recent lobbies void of players |
 | Red | Locked Lobbies |
+| Purple | Passworded Lobbies |
 
 *Spectating Yellow lobbies usually requires your client to 'catchup' to the live, on-going game and can take time depending on how long it's been going for*
 
