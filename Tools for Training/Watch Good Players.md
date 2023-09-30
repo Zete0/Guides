@@ -5,7 +5,7 @@
 
 #### In order to improve, it is important to watch how other players do things
 
-**To do this, jump into a lobby and click spectate**
+**To do this, jump into a lobby and click spectate / rejoin**
 | Lobby Color | Description |
 | --- | --- |
 | Green | Open lobbies that haven't started yet |
@@ -22,6 +22,15 @@
 - Look for players with higher rating
 	- To see the player ratings in lobbies, there is a setting *(show path here)*
 	- To see the player ratings in games, there is a setting for that too *(show path here)*
+
+ ### Effectively Watching a Player
+ 
+- Click the "Player View" and "Follow Camera" buttons at the bottom left to get their perspective
+- It can be hard to follow a player, try to pay attention to one specific aspect of the game
+	Example:
+ 	> - If you're trying to improve / understand your economy, closely watch how they open, what they build and when, and what they reclaim and when.
+	> - Pay attention to their resource income and how it affects what economic buildings they build
+
 
 ## There is also A lot of Youtube Content
 
