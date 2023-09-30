@@ -6,6 +6,7 @@
 
 #### Fundementally, we want to account for several things in our opener
 #### By understanding these principles, we should be able to effectively open on any map in any position
+#### Ultimately, our goal is to build our starting economy as quickly as possible so we may field more units
 
 ### Opening Principles:
 - **Take all nearby metal as soon as possible**
@@ -17,13 +18,15 @@
      - The important thing is to not stall on energy when building
      - If you do stall, consider options to fix the stalling asap
 - **Build a lab to increase build power**
-     - The commander can't build everything themselves, it's important to add on constructors to increase building speed and to adding on more resources
+     - The commander can't build everything themselves, it's important to add on constructors to build things more quickly
+     - If not enough constructors are added on, you may find yourself low on resources because it wasn't built up fast enough
 - **Anticipate the need for more energy**
      - As a lab finishes, often times we need more energy to utilize the lab properly
      - In most cases, the commander could be adding on more energy production while the lab gets started with constructors or scouts
-- **Grab more Metal asap**
+- **Grab even more Metal asap**
      - As constructors come out of the lab, it's important to grab other metal nodes nearby to increase the amount of metal you have coming in
 
+***Remember, the goal is to build more units, but units cost metal/energy. Metal is harder to get, so get more mex asap, but energy and build power must also align to properly use the metal***
 <br></br>
 ### Map Variations
 
@@ -87,8 +90,7 @@
 
 ## After the lab is finished
 - We want our commander to assist the lab whenever possible to pump out more build power to help get your base started
-- As soon as energy drops lower, add on more energy production to prevent stalling
-- 
+- As soon as energy drops lower, add on more energy production to prevent E stalling
 - As you get used to these mechanics, it is wise to try to anticipate what you'll need and when - but this takes time, be patient. Rome wasn't built in a day.
 
 
