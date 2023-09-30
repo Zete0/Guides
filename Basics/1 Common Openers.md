@@ -1,5 +1,5 @@
 
-# Basic Openers
+# Common Openers
 <sub></sup>(Author: Zeteo)</sup></sub>
 
 ## Fundementals
