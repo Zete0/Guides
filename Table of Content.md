@@ -16,3 +16,6 @@
 [Technical Guides](https://github.com/Zete0/Guides/blob/main/Technical/Overview.md) - These guides break down specific mechanics and provide formulas for how a specific mechanic works
 
 ## Other forms of Learning
+
+[Watching Others Play](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Watch%20Good%20Players.md#watch-good-players)
+[Youtube/Twitch](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Watch%20Good%20Players.md#there-is-also-a-lot-of-youtube-content)
