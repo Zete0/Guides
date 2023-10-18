@@ -30,7 +30,8 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 
 ### Beyond answering questions, Mentors also help coach by:
 - **Reviewing submitted Replays**
-- **One on One Voice Chat Sessions**
+	- *(To do this, create a thread within #academy-chat, upload your replay there, and ping @Mentor so all the mentors see the request)*
+- **One on One Chat Sessions**
 - **Hosting Events**
 	- *Sometimes, mentors will host what we call a "clinic", or an event that covers one particular topic*
 
