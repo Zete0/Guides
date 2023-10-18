@@ -1,5 +1,4 @@
 # What Is Beyond All Reason? (**BAR**)
-<sup><sup>Author: Zeteo</sup></sup>
 
 Beyond All Reason (**BAR**) is an up and coming, open source, __free to play__, Real-Time Strategy game.
 It is currently in **Alpha** and is working towards a steam release.
