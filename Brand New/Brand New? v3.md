@@ -58,7 +58,10 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 
 [**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content
 
-[**WinterGaming**](https://www.youtube.com/watch?v=8ogvWrMuMLk&ab_channel=Wintergaming) - Winter's Starter Guide Video
+**WinterGaming Guides** - *(Note, some of the builds here could be optimized)* 
+- [**Starter Guide - 42 Tips & Tricks**](https://www.youtube.com/watch?v=8ogvWrMuMLk&ab_channel=Wintergaming)
+- [**Beginner Tips & Starter Build**](https://www.youtube.com/watch?v=FNi_Fyj7W68&ab_channel=Wintergaming)
+- [**the best RTS you've never heard of**](https://www.youtube.com/watch?v=BYpwdJwngu0&ab_channel=WinterStarcraft)
 
 ### There is also many twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
 Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
