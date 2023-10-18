@@ -29,7 +29,7 @@ Here is some basic info to get you started as these guides are still a work in p
 
 Within the Discord, feel free to ask any question you may have in the [Academy-Chat Channel](https://discord.com/channels/549281623154229250/1090730219356307496). Fellow players and **Mentors** will answer your questions, free of judgement.
 
-Mentors are experienced players with plenty of game knowledge who are willing to help new players learn the game. To become a mentor, they must pass a test to become certified, so you know you can trust their responces.
+Mentors are experienced players with plenty of game knowledge who are willing to help new players learn the game. To become a mentor, they must pass a test to become certified, so you know you can trust their responses.
 
 Mentors have a Mentor badge that looks like this: ![image](https://github.com/Zete0/Guides/assets/47950648/89dea2ee-e40a-45ad-a7ab-a06b97c7a91d)
 
