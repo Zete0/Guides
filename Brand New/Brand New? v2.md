@@ -1,7 +1,7 @@
 # What Is Beyond All Reason? (**BAR**)
 <sup><sup>Author: Zeteo</sup></sup>
 
-Beyond All Reason (**BAR**) is an up and coming, open source, ____free to play___, Real-Time Strategy game.
+Beyond All Reason (**BAR**) is an up and coming, open source, __free to play__, Real-Time Strategy game.
 It is currently in **Alpha** and is working towards a steam release.
 
 Like Supreme Commander and Planetary Annihilation, it's roots stem from Cavedog's 1997 game Total Annihilation with a lineage steming from the spring engine, similar to Zero-K, but gameplay more similar to the original Total Annihilation and Balanced Annihilation.
@@ -49,16 +49,21 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 
 Here's a list of youtube channels provided by Mentors
 
-<br>[Requiem](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) &emsp;&emsp;&ensp; Major BAR contributor, has good content for absolute beginners
-<br>[MasterBel2](https://www.youtube.com/@MasterBel2) &emsp;&ensp; Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
-<br>[lolsteamroller](https://www.youtube.com/@lolsteamroller) &ensp; Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
-<br>[Zeteo](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) &emsp;&emsp;&emsp;&emsp; Relatively newer player, but has a growing library of replay analysis full of detail
-<br>[Drivver](https://www.youtube.com/@drivver4470) &emsp;&emsp;&emsp; Long time player, has some reviews on his channel, as well as other random quirky stuff
+[Requiem](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) - Major BAR contributor, has good starter content
+
+[MasterBel2](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
+
+[lolsteamroller](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
+
+[Zeteo](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
+
+[Drivver](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
 ### Other Channels
 
-[BARCastTV](https://www.youtube.com/@BARCastTV) &emsp; Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
-<br>[Raghna](https://www.youtube.com/@raghna) &emsp;&emsp; Raghna is one of the best BAR players, and has some old, but still useful content
+[BARCastTV](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
+
+[Raghna](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful content
 
 #### There is also plenty of twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
 Also check out the [main Beyond All Reason Youtube](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
