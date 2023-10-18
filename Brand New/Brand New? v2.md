@@ -45,23 +45,23 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 ## Other Resources
 
 ### There is also A lot of Youtube Content
-Here's a list of youtube channels provided by Mentors
+**Here's a list of youtube channels provided by Mentors**
 
-[Requiem](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) - Major BAR contributor, has good starter content
+[**Requiem**](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) - Major BAR contributor, has good starter content
 
-[MasterBel2](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
+[**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
 
-[lolsteamroller](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
+[**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
 
-[Zeteo](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
+[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
 
-[Drivver](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
+[**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
 ### Other Channels
 
-[BARCastTV](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
+[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
 
-[Raghna](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful content
+[**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful content
 
 ### There is also plenty of twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
-Also check out the [main Beyond All Reason Youtube](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
+Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
