@@ -1,10 +1,12 @@
-# What Is Beyond All Reason? (**BAR**)
+# New to Beyond All Reason?
 
 Beyond All Reason (**BAR**) is an up and coming, open source, __free to play__, Real-Time Strategy game.
 It is currently in **Alpha** and is working towards a steam release.
 
 Like Supreme Commander and Planetary Annihilation, it's roots stem from Cavedog's 1997 game Total Annihilation. It has a lineage steming from the spring engine, similar to Zero-K, but gameplay more similar to the original Total Annihilation and Balanced Annihilation.
 
+If you come from these similar games, here's a guide with that in mind:
+> [Tips for players coming from other games in the Total Annihilation Lineage](https://www.beyondallreason.info/news/tips-for-supreme-commander-total-planetary-annihilation-players-to-quickly-grasp-bar-gameplay)
 
 ## Game Modes
 
@@ -19,17 +21,19 @@ Beyond All Reason has many ways to play, including:
 - *Campaign is in progress*
 - *Match-making is in progress*
 
-*Many Game Settings can also be tweaked if you are looking for something non-standard*
+*Many Game Settings can also be tweaked if you are looking for something non-standard - look within the adv options while in a lobby*
 
 ## Beyond All Reason Resources
 Here is some basic info to get you started as these guides are still a work in progress:
 
 ### General Information
 [Download BAR Here](https://www.beyondallreason.info/download)
+
 [BAR Guides](https://www.beyondallreason.info/guides)
+
 [BAR Commands](https://www.beyondallreason.info/commands-20)
 
-### Have questions about the game? Ask a Mentor!
+## Have questions about the game? Ask a Mentor!
 
 Within the Discord, feel free to ask any question you may have in the [Academy-Chat Channel](https://discord.com/channels/549281623154229250/1090730219356307496). Fellow players and **Mentors** will answer your questions, free of judgement.
 
@@ -37,14 +41,15 @@ Mentors are experienced players with plenty of game knowledge who are willing to
 
 Mentors have a Mentor badge that looks like this: ![image](https://github.com/Zete0/Guides/assets/47950648/89dea2ee-e40a-45ad-a7ab-a06b97c7a91d)
 
-**Beyond answering questions, Mentors also help coach by:**
-- Reviewing submitted Replays
-- One on One Voice Chat Sessions
-- Hosting Events
+### Beyond answering questions, Mentors also help coach by:
+- **Reviewing submitted Replays**
+- **One on One Voice Chat Sessions**
+- **Hosting Events**
+	- *Sometimes, mentors will host what we call a "clinic", or an event that covers one particular topic*
 
 ## Other Resources
 
-### There is also A lot of Youtube Content
+### **There is also a lot of Youtube Content**
 **Here's a list of youtube channels provided by Mentors**
 
 [**Requiem**](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) - Major BAR contributor, has good starter content
