@@ -13,12 +13,13 @@ If you come from these similar games, here's a guide with that in mind:
 Here is some basic info to get you started as these guides are still a work in progress:
 
 ## General Information
-[**Download BAR Here**](https://www.beyondallreason.info/download)
-[**Basic Guides**](https://www.beyondallreason.info/guides)
+
+[**Guides Home**](https://www.beyondallreason.info/guides)
 [**Advanced Mechanics**](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics)
-[**BAR Commands**](https://www.beyondallreason.info/commands-20)
-[**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
+[**Interactive Commands**](https://www.beyondallreason.info/commands-20)
+
 [**Short Tips and Tricks**](https://www.youtube.com/watch?v=68rIRKXO3us&ab_channel=UncomfortableGameShorts)
+[**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
 [**Video Scenario Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY)
 
 ## Have questions about the game? Ask a Mentor!
