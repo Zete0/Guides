@@ -3,9 +3,9 @@
 Beyond All Reason (**BAR**) is an up and coming, open source, __free to play__, Real-Time Strategy game.
 It is currently in **Alpha** and is working towards a steam release.
 
-Like Supreme Commander and Planetary Annihilation, it's roots stem from Cavedog's 1997 game Total Annihilation. It has a lineage steming from the spring engine, similar to Zero-K, but gameplay more similar to the original Total Annihilation and Balanced Annihilation.
+Like Supreme Commander and Planetary Annihilation, it's roots stem from Cavedog's 1997 game **Total Annihilation**. It has a lineage steming from the spring engine, similar to Zero-K, but gameplay more similar to the original Total Annihilation and Balanced Annihilation.
 
-If you come from these similar games, here's a guide with that in mind:
+If you come from these similar games, here's a guide with you in mind:
 
 [**Tips for players coming from other games in the Total Annihilation Lineage**](https://www.beyondallreason.info/news/tips-for-supreme-commander-total-planetary-annihilation-players-to-quickly-grasp-bar-gameplay)
 
