@@ -44,11 +44,10 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 [**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
 [**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
-
 ### Non-Mentor Channels
 
 [**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
 [**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content
 
 ### There is also many twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
-Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
+Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) where you'll find official tournament coverage, new update promos, Q&A videos, and official BAR OST.
