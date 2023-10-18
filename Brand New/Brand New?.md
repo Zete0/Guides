@@ -7,7 +7,7 @@ It is currently in **Alpha** and is working towards a steam release.
 Like Supreme Commander and Planetary Annihilation, it's roots stem from Cavedog's 1997 game Total Annihilation with a lineage steming from the spring engine, similar to Zero-K, but gameplay more similar to the original Total Annihilation and Balanced Annihilation.
 
 
-## Ways to play Beyond All Reason
+## Game Modes
 
 Beyond All Reason has many ways to play, including:
 
@@ -43,9 +43,9 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 - One on One Voice Chat Sessions
 - Hosting Events
 
-### Other Resources
+## Other Resources
 
-## There is also A lot of Youtube Content
+### There is also A lot of Youtube Content
 
 Here's a list of youtube channels provided by Mentors
 
@@ -57,11 +57,11 @@ Here's a list of youtube channels provided by Mentors
 |  | [Zeteo](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) | Relatively newer player, but has a growing library of replay analysis full of detail |
 |  | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
 
-## Other Channels
+### Other Channels
 | Twitch | Youtube | Description |
 | --- | --- | --- |
 |  | [BARCastTV](https://www.youtube.com/@BARCastTV) | Good 1v1 player, channel has a lot of interviews with top tier players and tournaments |
 |  | [Raghna](https://www.youtube.com/@raghna) | Raghna is one of the best BAR players, and has some old, but still useful content |
 
-### There is also plenty of twitch streamers! 
-[Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
+#### There is also plenty of twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
+Also check out the [main Beyond All Reason Youtube](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
