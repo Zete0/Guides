@@ -29,9 +29,15 @@ Here is some basic info to get you started as these guides are still a work in p
 ### General Information
 [Download BAR Here](https://www.beyondallreason.info/download)
 
-[BAR Guides](https://www.beyondallreason.info/guides)
+[Basic Guides](https://www.beyondallreason.info/guides)
+
+[Advanced Mechanics](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics)
 
 [BAR Commands](https://www.beyondallreason.info/commands-20)
+
+[Basic Guides (Video)](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
+
+[Scenario Guides (Video)](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY)
 
 ## Have questions about the game? Ask a Mentor!
 
