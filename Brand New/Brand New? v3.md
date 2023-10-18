@@ -14,15 +14,10 @@ Here is some basic info to get you started as these guides are still a work in p
 
 ## General Information
 [**Download BAR Here**](https://www.beyondallreason.info/download)
-
 [**Basic Guides**](https://www.beyondallreason.info/guides)
-
 [**Advanced Mechanics**](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics)
-
 [**BAR Commands**](https://www.beyondallreason.info/commands-20)
-
 [**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
-
 [**Video Scenario Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY)
 
 ## Have questions about the game? Ask a Mentor!
@@ -40,28 +35,20 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 	- *Sometimes, mentors will host what we call a "clinic", or an event that covers one particular topic*
 
 ## Other Resources
-
 ### **There is also a lot of Youtube Content**
 **Here's a list of youtube channels provided by Mentors**
 
 [**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
-
 [**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
-
 [**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
-
 [**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
-### Other Channels
+
+### Non-Mentor Channels
 
 [**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
-
 [**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content
-
-**WinterGaming Guides** - *(Note, some of the builds here could be optimized)* 
-- [**Starter Guide - 42 Tips & Tricks**](https://www.youtube.com/watch?v=8ogvWrMuMLk&ab_channel=Wintergaming)
-- [**Beginner Tips & Starter Build**](https://www.youtube.com/watch?v=FNi_Fyj7W68&ab_channel=Wintergaming)
-- [**the best RTS you've never heard of**](https://www.youtube.com/watch?v=BYpwdJwngu0&ab_channel=WinterStarcraft)
+[**Wintergaming**](https://www.youtube.com/playlist?list=PLUG8Uhis3FKyXyHCwoqjZyEsr4-K2G37X) - Winter was quite new when he made these videos, but there is still some informational videos
 
 ### There is also many twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
 Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
