@@ -25,8 +25,8 @@ Beyond All Reason has many ways to play, including:
 Here is some basic info to get you started as these guides are still a work in progress:
 
 ### General Information
-[Download BAR Here](https://www.beyondallreason.info/download) <br>
-[BAR Guides](https://www.beyondallreason.info/guides) <br>
+[Download BAR Here](https://www.beyondallreason.info/download)
+[BAR Guides](https://www.beyondallreason.info/guides)
 [BAR Commands](https://www.beyondallreason.info/commands-20)
 
 ### Have questions about the game? Ask a Mentor!
@@ -45,7 +45,6 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 ## Other Resources
 
 ### There is also A lot of Youtube Content
-
 Here's a list of youtube channels provided by Mentors
 
 [Requiem](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) - Major BAR contributor, has good starter content
@@ -64,5 +63,5 @@ Here's a list of youtube channels provided by Mentors
 
 [Raghna](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful content
 
-#### There is also plenty of twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
+### There is also plenty of twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
 Also check out the [main Beyond All Reason Youtube](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.
