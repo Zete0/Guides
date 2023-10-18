@@ -19,7 +19,7 @@ Beyond All Reason has many ways to play, including:
 - Challanging Scenarios
 - *Campaign is in progress*
 - *Match-making is in progress*
-      
+
 <sub>*Many Game Settings can also be tweaked if you are looking for something non-standard*</sub>
 
 ## Beyond All Reason Resources
@@ -43,5 +43,25 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 - One on One Voice Chat Sessions
 - Hosting Events
 
+### Other Resources
 
+## There is also A lot of Youtube Content
 
+Here's a list of youtube channels provided by Mentors
+
+| Twitch | Youtube | Description |
+| --- | --- | --- |
+| [Requiem_tv](https://www.twitch.tv/requiem_tv) | [Requiem](https://www.youtube.com/@Requiem_tv/playlists?view=50&sort=dd&shelf_id=1) | Major BAR contributor, has good content for absolute beginners |
+| [masterbel_](https://www.twitch.tv/masterbel_) | [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
+| [lolsteamroller](https://www.twitch.tv/lolsteamroller) | [lolsteamroller](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
+|  | [Zeteo](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) | Relatively newer player, but has a growing library of replay analysis full of detail |
+|  | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
+
+## Other Channels
+| Twitch | Youtube | Description |
+| --- | --- | --- |
+|  | [BARCastTV](https://www.youtube.com/@BARCastTV) | Good 1v1 player, channel has a lot of interviews with top tier players and tournaments |
+|  | [Raghna](https://www.youtube.com/@raghna) | Raghna is one of the best BAR players, and has some old, but still useful content |
+
+### There is also plenty of twitch streamers! 
+[Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
