@@ -18,6 +18,7 @@ Here is some basic info to get you started as these guides are still a work in p
 [**Advanced Mechanics**](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics)
 [**BAR Commands**](https://www.beyondallreason.info/commands-20)
 [**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
+[**Short Tips and Tricks**](https://www.youtube.com/watch?v=68rIRKXO3us&ab_channel=UncomfortableGameShorts)
 [**Video Scenario Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY)
 
 ## Have questions about the game? Ask a Mentor!
