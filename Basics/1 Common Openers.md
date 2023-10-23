@@ -1,6 +1,6 @@
 
 # Common Openers
-<sub></sup>(Author: Zeteo)</sup></sub>
+<sup><sup>(Author: Zeteo)</sup></sup>
 
 ## Fundementals
 
