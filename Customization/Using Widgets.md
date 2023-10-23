@@ -3,17 +3,20 @@
 
 Widgets are part of the core building blocks of BAR and handle many of the core visual mechanics including many of the settings!
 - Players can create their own widgets, but must be made pubically available within the [widgets discord channel](https://discord.com/channels/549281623154229250/1113845509891829810)
-- Widgets that are not made available in the discord channel break the [CoC - Section B4 - Unfair Advantages](https://www.beyondallreason.info/code-of-conduct)
+- **Widgets that are not made available in the discord channel break the [CoC - Section B4 - Unfair Advantages](https://www.beyondallreason.info/code-of-conduct)**
 - Widgets that can influence the course of battle are also frowned upon, but not banned at this time
-
-All widgets are written in lua and can be edited with a text editor
-
 <br>
+
+- All widgets are written in lua and can be edited with a text editor
+- Widgets are usually disabled for tournament play
+<br>
+
 ## Installation
 
-To install a widget, place the *.lua* file within *Beyond-All-Reason\data\LuaUI\Widgets*. 
+**To install a widget, place the *.lua* file within *Beyond-All-Reason\data\LuaUI\Widgets*.**
 
 You will probably need to create the widgets folder, widgets that come with the game are elsewhere, so this spot is just for custom widgets
+
 ![Widget Path](https://github.com/Zete0/Guides/assets/47950648/f861f45d-714a-4885-85ce-52146fcc1759)
 ***NOTE:** Some of the widgets I have installed here may or may not be available in the future*
 
