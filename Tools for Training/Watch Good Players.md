@@ -34,18 +34,18 @@
 
 ## There is also A lot of Youtube Content
 
-Here's a list of youtube channels provided by Mentors
+**Here's a list of youtube channels provided by Mentors**
 
-| Twitch | Youtube | Description |
-| --- | --- | --- |
-|  | [MasterBel2](https://www.youtube.com/@MasterBel2) | Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer |
-|  | [LSR](https://www.youtube.com/@lolsteamroller) | Another long time player, Top Tier Tournament Competator, loves to talk BAR economy |
-|  | [Zeteo](https://www.youtube.com/@Zeteo-) | Relatively newer player, but has a lot of analysis content full of detail |
-|  | [Drivver](https://www.youtube.com/@drivver4470) | Long time player, has some reviews on his channel, as well as other random quirky stuff |
 
-## Other Channels
-| Twitch | Youtube | Description |
-| --- | --- | --- |
-|  | [BARCastTV](https://www.youtube.com/@BARCastTV) | Good 1v1 player, channel has a lot of interviews with top tier players and tournaments |
-|  | [Raghna](https://www.youtube.com/@raghna) | Raghna is one of the best BAR players, and has some old, but still useful content |
+[**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer<br>
+[**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy<br>
+[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail<br>
+[**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
+
+### Non-Mentor Channels
+
+
+[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments<br>
+[**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content<br>
+[**Wintergaming**](https://www.youtube.com/playlist?list=PLUG8Uhis3FKyXyHCwoqjZyEsr4-K2G37X) - Winter was quite new when he made these videos, but there is still some informational videos
