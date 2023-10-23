@@ -1,7 +1,8 @@
 [comment]: <> (Note: These could be hover tooltips when hovering over Build Time)
 
 # Build Time Calculation
-<sub></sup>(Author: Zeteo)</sup></sub>
+<sup><sup>(Author: Zeteo)</sup></sup>
+
 - The time it takes to build something = Build Time Cost / Build Power applied
 - If a unit has costs 2000 build time and the factory has 100 build power, it'll take 20 seconds to produce that unit
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2000 BT / 100 BP = 20 sec
