@@ -1,7 +1,7 @@
 
 
 # Watch Good Players
-<sub></sup>(Author: Zeteo)</sup></sub>
+<sup><sup>(Author: Zeteo)</sup></sup>
 
 #### In order to improve, it is important to watch how other players do things
 
