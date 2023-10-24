@@ -1,4 +1,4 @@
-Setting Custom Hotkeys
+# Setting Custom Hotkeys
 <sup><sup>(Author: Zeteo)</sup></sup>
 
 
