@@ -1,3 +1,5 @@
+NOTE: This is formated for discord
+
 # New to Beyond All Reason?
 <sup><sup>(Author: Zeteo)</sup></sup>
 
