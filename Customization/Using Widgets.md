@@ -18,7 +18,7 @@ Widgets are part of the core building blocks of BAR and handle many of the core 
 You will probably need to create the widgets folder, widgets that come with the game are elsewhere, so this spot is just for custom widgets
 
 ![Widget Path](https://github.com/Zete0/Guides/assets/47950648/f861f45d-714a-4885-85ce-52146fcc1759)
-***NOTE:** Some of the widgets I have installed here may or may not be available in the future*
+***NOTE:** Some of the widgets shown here may or may not be available in the future*
 
 ### After the file is placed in your folder, you may need to turn the widget on
 
@@ -33,8 +33,8 @@ You can also edit the widget file to adjust the behavior to your liking
 #### Use Widgets at your own risk! Not all widgets are perfect and could screw something up
 
 If you wish to remove a widget, bring up the widget menu and turn it off or remove the file. You may need to refresh lua or restart the game for it to take effect in some cases
-
 <br>
+
 ## Recommended Widgets
 
 [**Battle Tracker**](https://discord.com/channels/549281623154229250/1128770111705202789) - Durring a battle, this widget will display a +green number or -red number to indicate the battle metal efficiency (i.e a '+100m' indicates allies have destroyed 100 metal worth of stuff more than your opponents)
