@@ -53,7 +53,7 @@
 #### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Technical/Calculating%20Resources%20Spent.md))
 
 <br></br><br></br>
-## Balancing Economy is First Milestone to Victory
+## Balancing Economy is First Step to Victory
 
 ### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
@@ -85,6 +85,7 @@
 	> - Also note, our +/- Metal and +/- Energy are not drastically out of proportion
 
 ##### ***Note:** Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* 
+##### ***Note:** Adding more Build power speeds up the building process, but only if you have enough resources* 
 
 ### Resource Gain and Construction Priority
 
