@@ -84,8 +84,8 @@
 	> - In this example, we're spending our metal well, and we have enough energy for our needs
 	> - Also note, our +/- Metal and +/- Energy are not drastically out of proportion
 
-##### ***Note:** Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* 
-##### ***Note:** Adding more Build power speeds up the building process, but only if you have enough resources* 
+**Note:** *Different buildings/units cost a different amount of Resources/Time, so different projects will drain resources faster/slower* <br>
+**Note:** *Adding more Build power speeds up the building process, but only if you have enough resources* 
 
 ### Resource Gain and Construction Priority
 
