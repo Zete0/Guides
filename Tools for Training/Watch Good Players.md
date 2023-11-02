@@ -42,6 +42,9 @@
 [**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail<br>
 [**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
 
+[**Requiem** - Basic Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - Requiem has some basic guides here<br>
+[**Requiem** - Scenario Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - If you want specific guides for scenarios, this is the place
+
 
 ### Non-Mentor Channels
 
