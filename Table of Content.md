@@ -18,4 +18,8 @@
 ## Other forms of Learning
 
 [Watching Others Play](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Watch%20Good%20Players.md#watch-good-players)
+- Watching others and figuring out what they do differently / why they do it that way can definitely help you learn!
+- Click the link to see the guide to how to join a lobby and spectate
+
 [Youtube/Twitch](https://github.com/Zete0/Guides/blob/main/Tools%20for%20Training/Watch%20Good%20Players.md#there-is-also-a-lot-of-youtube-content)
+- Click the link to see credible youtube channels
