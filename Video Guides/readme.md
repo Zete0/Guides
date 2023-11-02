@@ -21,7 +21,7 @@ NOTES:
 	- It's a bit overly detailed IMO
 	- This has been a way for me to create an outline for guides
 	- Some of the stuff I wrote is already on the website
-
+	- The list here was made independently from the other stuff in this repository, so there may be some differences
 
 - Ultimately, I think the website guides could be cleaned up
 	- Some guides are nested / hidden within other guides
