@@ -1,4 +1,5 @@
 ## Testing Stuff on Your Own
+<sup><sup>(Author: Zeteo)</sup></sup>
 
 - Testing stuff on your own is a great way to figure out exactly how the game works
 - This can allow you to do things such as:
