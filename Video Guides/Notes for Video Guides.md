@@ -21,6 +21,13 @@ air fundementals
 
 Differences between arm and core
 
+- Bots
+- Vehicle
+- Air
+- Sea
+- Hovercraft
+- Amphibious
+
 
 
 <br>
@@ -40,6 +47,9 @@ Differences between arm and core
 
 ****Importance of Controlling Space with commander and troops**
 
+**Importance of Reclaim**
+- When to reclaim / when to ressurect
+
 
 **Basic Raiding**<br>
 - When to raid, when to hold off
@@ -47,6 +57,7 @@ Differences between arm and core
 **Getting Basic Information**<br>
 - Scouting
 - What to look for
+
 
 <br>
 
@@ -112,7 +123,7 @@ Math on when to Tide
 Math on Energy Production efficiency<br>
 - When to build a type of E producer
 
-
+Math on When T2 converters are better than T1
 
 
 
