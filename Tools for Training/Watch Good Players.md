@@ -34,7 +34,7 @@
 
 ## There is also A lot of Youtube Content
 
-**Here's a list of youtube channels provided by Mentors**
+### Here's a list of youtube channels provided by Mentors
 
 
 [**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer<br>
