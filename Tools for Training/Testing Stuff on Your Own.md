@@ -21,12 +21,15 @@
 | --- | --- |
 | **/cheat** | Enables cheats to be used in a single player match |
 | **/nocost** | Makes all construction cost 1 Metal/Energy/BuildTime |
-| **/atm** | Provides 1000 Metal and Energy |
 | **/globallos** | Removes fog of war |
 | **/godmode** | Allows the player to control all units, friend or foe |
+| **/atm** | Provides 1000 Metal and Energy |
+| **/resourcecheat** | Effectively gives your infinite resources |
+| **/give \<number\> \<unitname\>** | Spawns in the number of named unit - *NOTE: these names are codenames in the script, and found in the header when looking at unit info* |
+
 
 **Notes:**
-*These are mostly togglable, so if you want to put costs back on, you can (existing units produced with /nocost will remain as a cost of 1/1/1)*
+*Some of these are togglable, so if you want to put costs back on, you can just type it in again (existing units produced with /nocost will remain as a cost of 1/1/1)*
 *When using godmode, you may not see the the UI of the enemy units*
 
 **If you wish to control both armada / cortex on one player, you can do so by selecting a commander and using the *Capture* ability to add that unit to that player**
