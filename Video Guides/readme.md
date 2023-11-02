@@ -6,7 +6,8 @@ NOTES:
 - This ended up being a giant list of guides I think should end getting made eventually.
 - It's hard to say which ones are top priority, as usually people have some reasonable 
   game sense before they even know about reviews.
-
+- The list may seem rather long, but BAR is rather complex and there is a lot of details to go over.
+- I'm not 100% sure on the exact breakdown, especially when considering trying to keep the videos as short as possible
 
 - I think the stuff under 'Basic' is probably the highest priority
 	- I find even some of the reviews of people above 30 sometimes have trouble with
@@ -22,6 +23,7 @@ NOTES:
 	- This has been a way for me to create an outline for guides
 	- Some of the stuff I wrote is already on the website
 	- The list here was made independently from the other stuff in this repository, so there may be some differences
+
 
 - Ultimately, I think the website guides could be cleaned up
 	- Some guides are nested / hidden within other guides
