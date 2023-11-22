@@ -19,6 +19,7 @@
 ### Mentor Expectations
 - Be capable of finding and pointing out fundamental issues in someone's play in a friendly manner
 - Be capable of handling delicate social situations in a friendly, diplomatically way
+- Understand that not everyone wants help and avoid unsolicited backseating
 - Be capable of understanding the difference between a mistake and a stylistic choice -
       *(We're not here to force players to play a specific way, but help them with their own style)*
 - Mentors are not required to be around 24/7 (this is all voluntary work, not a second job) and should enjoy helping people learn
