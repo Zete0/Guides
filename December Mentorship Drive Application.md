@@ -22,4 +22,5 @@
 - Understand that not everyone wants help and avoid unsolicited backseating
 - Be capable of understanding the difference between a mistake and a stylistic choice -
       *(We're not here to force players to play a specific way, but help them with their own style)*
+- No spreading false information - if you don't know something, don't answer, try and find out, or point them to someone who may know
 - Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in sticking around a while
