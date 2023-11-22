@@ -1,6 +1,6 @@
-## December Mentorship Drive
+# December Mentorship Drive
 
-### What is the Mentorship Program?
+## What is the Mentorship Program?
 Mentors are people with a solid core understanding of the game that are willing to help players learn the game. This is often done by:
 - Answering questions about the game in #main and #academy-chat
 - Analyze replays
@@ -10,10 +10,10 @@ Mentors are people with a solid core understanding of the game that are willing 
   
 Mentors have a special green discord color and symbol *(so be on the lookout for those members if you need assistance)*
 
-### How Do I Become a Mentor?
+## How Do I Become a Mentor?
 - Right now, we are actively looking for more people for the mentorship program
 - To apply, please review [replay link] this replay and submit it to [submission location] by [end date]
-- Prospective Mentors __must__ also fill these requirements:
+- **Prospective Mentors __must__ also fill these requirements:**
 
   **1)** Be a Member of the BAR Community for 6+ Months
   
@@ -21,8 +21,9 @@ Mentors have a special green discord color and symbol *(so be on the lookout for
   
   **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
 
-### Mentor Expectations
+## Mentor Expectations
 Mentors are Expected to be capable of:
+
 - Finding and pointing out fundamental issues in someone's play in a friendly manner
 - Handling delicate social situations in a friendly, diplomatic way
 - Understanding that not everyone wants help and avoid unsolicited backseating
