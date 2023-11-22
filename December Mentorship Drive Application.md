@@ -10,9 +10,11 @@
 - To apply, please review [replay link] this replay and submit it to [submission location] by [end date]
 - Mentors must also fill these requirements:
 
-      **1)** Be a Member of the BAR Community for 6+ Months
-      **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and not currently debridged)
-      **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
+  **1)** Be a Member of the BAR Community for 6+ Months
+  
+  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and not currently debridged)
+  
+  **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
 
 ### Mentor Expectations
 - Be capable of finding and pointing out fundamental issues in someone's play in a friendly manner
