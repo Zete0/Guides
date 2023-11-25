@@ -24,11 +24,10 @@ Mentors have a special green discord color and symbol *(so be on the lookout for
 ## Mentor Expectations
 Mentors are Expected to be capable of:
 
-- Finding and pointing out fundamental issues in someone's play in a friendly manner
-- Handling delicate social situations in a friendly, diplomatic way
+- Finding and pointing out fundamental issues in someone's play in a friendly manner and be friendly when interacting with the community
 - Understanding that not everyone wants help and avoid unsolicited backseating
 - Understanding the difference between a mistake and a stylistic choice -
       *(We're not here to force players to play a specific way, but help them with their own style)*
-- Not spreading false information - if you don't know something, be able to state you're not sure and try to find out or point to where to get the information
+- Not spreading false information - If there is a question you're not sure of, be capable of finding out or stating you're unsure
 
-Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in sticking around a while
+Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in actively helping people learn the game
