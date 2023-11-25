@@ -11,13 +11,13 @@ Mentors are people with a solid core understanding of the game that are willing 
 Mentors have a special green discord color and symbol *(so be on the lookout for those members if you need assistance)*
 
 ## How Do I Become a Mentor?
-- Right now, we are actively looking for more people for the mentorship program
+- For a limited time, we are actively looking for more people for the mentorship program
 - To apply, please review [replay link] this replay and submit it to [submission location] by [end date]
 - **Prospective Mentors __must__ also fill these requirements:**
 
-  **1)** Be a Member of the BAR Community for 6+ Months
+  **1)** Be a Member of the BAR Community for 4+ Months
   
-  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and not currently debridged)
+  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and BAR / discord must be bridged)
   
   **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
 
