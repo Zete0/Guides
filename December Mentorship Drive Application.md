@@ -6,7 +6,7 @@ Mentors are people with a solid core understanding of the game that are willing 
 - Analyze replays
 - Work one on one with players
 - Help build guides
-- Organize clinics (teaching sessions) and other events
+- Participate in running clinics (teaching sessions) and other events
   
 Mentors have a special green discord color and symbol *(so be on the lookout for those members if you need assistance)*
 
