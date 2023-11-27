@@ -12,15 +12,15 @@ Mentors have a special green discord color and symbol *(so be on the lookout for
 
 ## How Do I Become a Mentor?
 - For a limited time, we are actively looking for more people for the mentorship program
-- To apply, please review [replay link] this replay and submit it to [submission location] by [end date]
+- To apply, please review [replay link] this replay and submit it to [submission location] by <t:1702281600:F> (The 11th of december at 9am gmt aka midnight pst)
 - **Prospective Mentors __must__ also fill these requirements:**
 
   **1)** Be a Member of the BAR Community for 4+ Months
-  
-  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and BAR / discord must be bridged)
-  
-  **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
 
+  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and BAR / discord must be bridged)
+
+  **3)** Show that you are interested in helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews
+  
 ## Mentor Expectations
 Mentors are Expected to be capable of:
 
