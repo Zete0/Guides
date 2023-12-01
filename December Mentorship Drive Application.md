@@ -12,7 +12,7 @@ Mentors have a special green discord color and symbol *(so be on the lookout for
 
 ## How Do I Become a Mentor?
 - For a limited time, we are actively looking for more people for the mentorship program
-- To apply, please review [replay link] this replay and submit it to [submission location] by <t:1702281600:F> (The 11th of december at 9am gmt aka midnight pst)
+- To apply, please fill out this [application](https://forms.gle/Kp19twVoqPojS32U8) by <t:1702886400:F> (The 18th of december at 9am gmt aka sunday the 17th at midnight pst)
 - **Prospective Mentors __must__ also fill these requirements:**
 
   **1)** Be a Member of the BAR Community for 4+ Months
