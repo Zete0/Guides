@@ -3,7 +3,7 @@
 ## What is the Mentorship Program?
 Mentors are people with a solid core understanding of the game that are willing to help players learn the game. This is often done by:
 - Answering questions about the game in #main and #academy-chat
-- Analyze replays
+- Analyzing replays
 - Work one on one with players
 - Help build guides
 - Participate in running clinics (teaching sessions) and other events
