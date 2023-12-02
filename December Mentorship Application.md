@@ -15,11 +15,9 @@ Mentors have a special green discord color and symbol *(so be on the lookout for
 - To apply, please fill out this [application](https://forms.gle/Kp19twVoqPojS32U8) by <t:1704873600:F>
 - **Prospective Mentors __must__ also fill these requirements:**
 
-  **1)** Be a Member of the BAR Community for **4+ Months**
-
-  **2) Be on good terms with the moderation team** (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and BAR / discord must be bridged)
-
-  **3) Show interest** by helping others learn by answering questions within #main and #academy-chat and/or helping with replay reviews dropped in #academy-chat
+  **1)** Be a Member of the BAR Community for 4+ Months
+  **2)** Be on good terms with the moderation team (no history of any behavior that could be deemed toxic, no history of harassing community members, no non-appealable moderation action, and BAR / discord must be bridged)
+  **3)** Show interest by helping others learn by answering questions / helping with reviews within #main and #academy-chat
   
 ## Mentor Expectations
 Mentors are Expected to be capable of:
@@ -32,4 +30,4 @@ Mentors are Expected to be capable of:
 
 *Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in actively helping people learn the game*
 
-### If you have any questions, please leave them in this thread: 
+**Thread: **
