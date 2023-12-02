@@ -1,4 +1,4 @@
-# December Mentorship Drive
+# December Mentorship Application
 
 ## What is the Mentorship Program?
 Mentors are people with a solid core understanding of the game that are willing to help players learn the game. This is often done by:
