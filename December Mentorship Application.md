@@ -30,4 +30,6 @@ Mentors are Expected to be capable of:
       *(We're not here to force players to play a specific way, but help them with their own style)*
 - Not spreading false information - If there is a question you're not sure of, be capable of finding out or stating you're unsure
 
-Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in actively helping people learn the game
+*Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in actively helping people learn the game*
+
+### If you have any questions, please leave them in this thread: 
