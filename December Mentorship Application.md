@@ -30,4 +30,4 @@ Mentors are Expected to be capable of:
 
 *Mentors are not required to be around 24/7 (this is all voluntary work, not a second job), but should be interested in actively helping people learn the game*
 
-**Thread: **
+**Thread: https://discord.com/channels/549281623154229250/1180566864817045566**
